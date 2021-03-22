@@ -1,0 +1,47 @@
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_test\dataguide_test\bin\Debug\dataguide_test.exe
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_test\dataguide_test\bin\Debug\dataguide_test.pdb
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_test\dataguide_test\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_test\dataguide_test\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_test\dataguide_test\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_test\dataguide_test\obj\x86\Debug\dataguide_project.csproj.ResolveComReference.cache
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_test\dataguide_test\obj\x86\Debug\dataguide_test.Properties.Resources.resources
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_test\dataguide_test\obj\x86\Debug\dataguide_project.csproj.GenerateResource.Cache
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_test\dataguide_test\obj\x86\Debug\dataguide_test.exe
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_test\dataguide_test\obj\x86\Debug\dataguide_test.pdb
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_test\dataguide_test\obj\x86\Debug\dataguide_project.Form1.resources
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_project\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_project\obj\x86\Debug\dataguide_project.csproj.ResolveComReference.cache
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_test\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_test\obj\x86\Debug\dataguide_project.csproj.ResolveComReference.cache
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_test\obj\x86\Debug\dataguide_test.exe
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_test\obj\x86\Debug\dataguide_test.pdb
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_test\bin\Debug\dataguide_test.exe
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_test\bin\Debug\dataguide_test.pdb
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_test\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_test\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_test\obj\x86\Debug\dataguide_project.csprojResolveAssemblyReference.cache
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_test\obj\x86\Debug\dataguide_project.Form1.resources
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_test\obj\x86\Debug\dataguide_test.Properties.Resources.resources
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_test\obj\x86\Debug\dataguide_project.csproj.GenerateResource.Cache
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_project\bin\Debug\dataguide_project.exe
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_project\bin\Debug\dataguide_project.pdb
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_project\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_project\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_project\obj\x86\Debug\dataguide_project.Form1.resources
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_project\obj\x86\Debug\dataguide_project.Properties.Resources.resources
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_project\obj\x86\Debug\dataguide_project.csproj.GenerateResource.Cache
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_project\obj\x86\Debug\dataguide_project.exe
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_project\obj\x86\Debug\dataguide_project.pdb
+C:\Users\ysyoon\Documents\Visual Studio 2010\Projects\dataguide_project\dataguide_project\obj\x86\Debug\dataguide_project.csprojResolveAssemblyReference.cache
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_project\dataguide_project\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_project\dataguide_project\obj\x86\Debug\dataguide_project.csproj.ResolveComReference.cache
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_project\dataguide_project\obj\x86\Debug\dataguide_project.exe
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_project\dataguide_project\obj\x86\Debug\dataguide_project.pdb
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_project\dataguide_project\bin\Debug\dataguide_project.exe
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_project\dataguide_project\bin\Debug\dataguide_project.pdb
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_project\dataguide_project\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_project\dataguide_project\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_project\dataguide_project\obj\x86\Debug\dataguide_project.csprojResolveAssemblyReference.cache
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_project\dataguide_project\obj\x86\Debug\dataguide_project.Form1.resources
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_project\dataguide_project\obj\x86\Debug\dataguide_project.Properties.Resources.resources
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_project\dataguide_project\obj\x86\Debug\dataguide_project.csproj.GenerateResource.Cache
