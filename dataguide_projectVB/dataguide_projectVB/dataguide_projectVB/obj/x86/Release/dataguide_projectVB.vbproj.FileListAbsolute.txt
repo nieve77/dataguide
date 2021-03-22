@@ -1,0 +1,26 @@
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\obj\x86\Release\Interop.SHDocVw.dll
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\obj\x86\Release\dataguide_projectVB.vbproj.ResolveComReference.cache
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\bin\Release\dataguide_projectVB.exe
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\bin\Release\dataguide_projectVB.pdb
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\bin\Release\dataguide_projectVB.xml
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\bin\Release\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\bin\Release\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\obj\x86\Release\dataguide_projectVB.dataguide_project.resources
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\obj\x86\Release\dataguide_projectVB.Resources.resources
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\obj\x86\Release\dataguide_projectVB.vbproj.GenerateResource.Cache
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\obj\x86\Release\dataguide_projectVB.exe
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\obj\x86\Release\dataguide_projectVB.xml
+C:\Users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\obj\x86\Release\dataguide_projectVB.pdb
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_projectVB\dataguide_projectVB\obj\x86\Release\Interop.SHDocVw.dll
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_projectVB\dataguide_projectVB\obj\x86\Release\dataguide_projectVB.vbproj.ResolveComReference.cache
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_projectVB\dataguide_projectVB\obj\x86\Release\dataguide_projectVB.exe
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_projectVB\dataguide_projectVB\obj\x86\Release\dataguide_projectVB.xml
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_projectVB\dataguide_projectVB\obj\x86\Release\dataguide_projectVB.pdb
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_projectVB\dataguide_projectVB\bin\Release\dataguide_projectVB.exe
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_projectVB\dataguide_projectVB\bin\Release\dataguide_projectVB.pdb
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_projectVB\dataguide_projectVB\bin\Release\dataguide_projectVB.xml
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_projectVB\dataguide_projectVB\bin\Release\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_projectVB\dataguide_projectVB\bin\Release\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_projectVB\dataguide_projectVB\obj\x86\Release\dataguide_projectVB.dataguide_project.resources
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_projectVB\dataguide_projectVB\obj\x86\Release\dataguide_projectVB.Resources.resources
+C:\Users\hsyoon\Desktop\기업가치평가 관리시스템개발\블룸버그 및 데이터가이드\dataguide_projectVB\dataguide_projectVB\obj\x86\Release\dataguide_projectVB.vbproj.GenerateResource.Cache

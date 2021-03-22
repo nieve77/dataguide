@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dataguide_projectVB", "dataguide_projectVB\dataguide_projectVB.vbproj", "{41AFCCB9-FAFA-4600-8157-C4DBDE5851F4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DataguideTest", "DataguideTest\DataguideTest.vdproj", "{29DEDDFC-73AA-4AD2-97B9-8A0DEF06E18D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41AFCCB9-FAFA-4600-8157-C4DBDE5851F4}.Debug|x86.ActiveCfg = Debug|x86
+		{41AFCCB9-FAFA-4600-8157-C4DBDE5851F4}.Debug|x86.Build.0 = Debug|x86
+		{41AFCCB9-FAFA-4600-8157-C4DBDE5851F4}.Release|x86.ActiveCfg = Release|x86
+		{41AFCCB9-FAFA-4600-8157-C4DBDE5851F4}.Release|x86.Build.0 = Release|x86
+		{29DEDDFC-73AA-4AD2-97B9-8A0DEF06E18D}.Debug|x86.ActiveCfg = Debug
+		{29DEDDFC-73AA-4AD2-97B9-8A0DEF06E18D}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

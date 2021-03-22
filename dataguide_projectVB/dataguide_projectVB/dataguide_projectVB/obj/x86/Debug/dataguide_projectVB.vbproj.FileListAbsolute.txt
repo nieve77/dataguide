@@ -1,0 +1,13 @@
+c:\users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\obj\x86\Debug\Interop.SHDocVw.dll
+c:\users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\obj\x86\Debug\dataguide_projectVB.vbproj.ResolveComReference.cache
+c:\users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\obj\x86\Debug\dataguide_projectVB.dataguide_project.resources
+c:\users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\obj\x86\Debug\dataguide_projectVB.Resources.resources
+c:\users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\obj\x86\Debug\dataguide_projectVB.vbproj.GenerateResource.Cache
+c:\users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\bin\Debug\dataguide_projectVB.exe
+c:\users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\bin\Debug\dataguide_projectVB.pdb
+c:\users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\bin\Debug\dataguide_projectVB.xml
+c:\users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+c:\users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+c:\users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\obj\x86\Debug\dataguide_projectVB.exe
+c:\users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\obj\x86\Debug\dataguide_projectVB.xml
+c:\users\ysyoon\documents\visual studio 2010\Projects\dataguide_projectVB\dataguide_projectVB\obj\x86\Debug\dataguide_projectVB.pdb
